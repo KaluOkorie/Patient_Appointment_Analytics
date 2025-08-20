@@ -5,8 +5,12 @@ This project helps healthcare administrators and staff understand why patients m
 It uses Excel to clean raw data and Streamlit to create an interactive dashboard.
 Users can filter the data by age, gender, medical conditions, and day of the week to spot patterns in no-shows.
 The goal is to uncover key factors that affect attendance and use those insights to reduce missed appointments.
-## 🛠️ Technical Implementation
+## About Data set
+-click [here](https://www.kaggle.com/datasets/joniarroba/noshowappointments) to view the dataset
+- This dataset contains 110,527 medical appointment records from Brazil, with 14 variables analyzing appointment attendance patterns.
+-  The core focus of this dataset is to  understand why patients miss appointments ("no-shows").
 
+## 🛠️ Technical Implementation
 # 📊 Excel-Based Data Preparation
 Excel was used extensively to clean and structure the raw appointment data:
 
@@ -45,4 +49,6 @@ The interactive dashboard allows users to:
 
 ## Analyzer App
 Clik [here](https://patientappointmentanalytics-ezavuiuz4xyoarapue5knc.streamlit.app/) to view the app.
+
+
 
