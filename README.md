@@ -11,12 +11,12 @@ The goal is to uncover key factors that affect attendance and use those insights
 Excel was used extensively to clean and structure the raw appointment data:
 
 # 🔁 Pivot Tables: Analyzed no-show patterns by day, gender, and comorbidities
-🧹 Remove Duplicates: Ensured data integrity
-✂️ TRIM Function: Standardized text fields
-🔍 Find & Replace: Converted gender codes (F → Female, M → Male)
-🧬 UNIQUE Function: Resolved Unicode import errors
-📈 COUNTIF: Generated summary statistics
-🧮 Custom Formulas: Converted no-show status to binary (0/1)
+- 🧹 Remove Duplicates: Ensured data integrity
+- ✂️ TRIM Function: Standardized text fields
+- 🔍 Find & Replace: Converted gender codes (F → Female, M → Male)
+- 🧬 UNIQUE Function: Resolved Unicode import errors
+- 📈 COUNTIF: Generated summary statistics
+- 🧮 Custom Formulas: Converted no-show status to binary (0/1)
 
 # ⌨️ Excel Shortcuts Used
 Ctrl+H – Find and Replace
