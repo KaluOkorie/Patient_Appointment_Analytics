@@ -19,26 +19,26 @@ Excel was used extensively to clean and structure the raw appointment data:
 - 🧮 Custom Formulas: Converted no-show status to binary (0/1)
 
 # ⌨️ Excel Shortcuts Used
-Ctrl+H – Find and Replace
-Alt+H+W – Wrap Text
-Alt+H+O+I – Auto-fit Column Width
-Ctrl+Home/End – Navigate to Worksheet Extremes
-Page Up/Down – Rapid Vertical Navigation
-Shift+Space – Select Entire Row
-📸 Screenshots of applied shortcuts and Excel steps are available in the Screenshots folder.
+- Ctrl+H – Find and Replace
+- Alt+H+W – Wrap Text
+- Alt+H+O+I – Auto-fit Column Width
+- Ctrl+Home/End – Navigate to Worksheet Extremes
+- Page Up/Down – Rapid Vertical Navigation
+- Shift+Space – Select Entire Row
+- 📸 Screenshots of applied shortcuts and Excel steps are available in the Screenshots folder.
 
 # 🗂️ Workbook Structure
-OG – Original raw data (hidden)
-Clean Sheet – Processed and standardized data
-Worksheet – Analysis, charts, and pivot tables
+- OG – Original raw data (hidden)
+- Clean Sheet – Processed and standardized data
+- Worksheet – Analysis, charts, and pivot tables
 
 # 🌐 Streamlit Web Application
 The interactive dashboard allows users to:
-📅 Select a day of the week to analyze no-show patterns
-🩺 View no-show rates by comorbidities (Alcoholism, Hypertension, Diabetes, Handicap)
-👥 Analyze trends by gender and age
-📊 Explore visualizations of appointment data
+- 📅 Select a day of the week to analyze no-show patterns
+- 🩺 View no-show rates by comorbidities (Alcoholism, Hypertension, Diabetes, Handicap)
+- 👥 Analyze trends by gender and age
+- 📊 Explore visualizations of appointment data
 
 # 🎓 Excel Learning Resources
-📘 Click here to watch: Excel Data Cleaning Tutorial
-📘 Click here to watch: Excel Pivot Table Tutorial
+- 📘 Click here to watch: Excel Data Cleaning Tutorial
+- 📘 Click here to watch: Excel Pivot Table Tutorial
