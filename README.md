@@ -42,3 +42,7 @@ The interactive dashboard allows users to:
 # 🎓 Excel Learning Resources
 - 📘 Click [here](https://www.youtube.com/watch?v=opJgMj1IUrc&t=264s) to watch:Excel Tutorials for Beginners
 - 📘 Click [here](https://www.youtube.com/watch?v=Y8xhrUa3KH4) to watch: Excel Formulas and Functions
+
+## Analyzer App
+Clik [here](https://patientappointmentanalytics-ezavuiuz4xyoarapue5knc.streamlit.app/) to view the app.
+
