@@ -40,5 +40,5 @@ The interactive dashboard allows users to:
 - 📊 Explore visualizations of appointment data
 
 # 🎓 Excel Learning Resources
-- 📘 Click here to watch: Excel Data Cleaning Tutorial
-- 📘 Click here to watch: Excel Pivot Table Tutorial
+- 📘 Click [here](https://www.youtube.com/watch?v=opJgMj1IUrc&t=264s) to watch:Excel Tutorials for Beginners
+- 📘 Click [here](https://www.youtube.com/watch?v=Y8xhrUa3KH4) to watch: Excel Formulas and Functions
